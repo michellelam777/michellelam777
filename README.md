@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi, I'm Michelle Lam!
 
+I'm a Master of Environmental Data Science student with a backround in renewable energy. I'm excited to apply the data science skills and tools I'm learning towards advancing the clean energy transition. 
 <!--
 **michellelam777/michellelam777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
